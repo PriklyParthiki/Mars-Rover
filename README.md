@@ -41,9 +41,11 @@ Behind those doors are two rods and two mechanical arms:
 * **Claw Arm:** Made of 3 parts (2 long metal strips connected together and a claw that can adjust its grip size).
 * **Drill Arm:** Equipped with a drill bit used to break martian materials for sample storage.
 
-Each arm stands on a rod, allowing them to change direction vertically and making the process of extracting materials very easy. Additionally, two solar panels attach to a cylindrical piston that expands and retracts to push the panels out or pull them inside safely at night.
+Each arm stands on a rod, allowing them to change direction vertically and making the process of extracting materials very easy. 
 
 ![Antennas and Body Details](./Screenshot%202026-08-10%209.10.41%20PM.png)
+
+Also, two solar panels attach to a cylindrical piston that expands and retracts to push the panels out or pull them inside safely at night.
 
 ![Front Doors and Internal Storage](./Screenshot%202026-08-10%209.13.22%20PM.png)
 
@@ -60,6 +62,6 @@ Finally, stored at the back are **4 Mars Ascent Vehicles (MAV)**. The robot stor
 ## Conclusion
 So, that’s it! My Mini Mars rover broken down! 
 
-Be careful while playing around with the live link, as parts can glitch because of the sheer amount of components inside my rover! Also be aware that a lot of the mates (mates are basically bolts and different types of screws that allow movement, like spinning or locking in place) might be delicate. 
+Be careful while playing around with my live link, as parts can glitch because of the sheer amount of components inside my rover! Also be aware that a lot of the mates (mates are basically bolts and different types of screws that allow movement, like spinning or locking in place) might be delicate. 
 
 Have fun, and be sure to give me a nice rating so I can get some nice prizes!! :D

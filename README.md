@@ -70,3 +70,5 @@ Have fun, and be sure to give me a nice rating so I can get some nice prizes!! :
 
 CREDITS: For the camera Raspberry_Pi_Camera_OV5647_IR-CUT_175- by JeanProfite on grabCad
 and for the wheel Curiosity Wheel v25, by David Shaw on grabCad
+
+I used AI only to format my devlogs and this README, HOWEVER, all the writing was done by myself in a Google document that I asked Gemini to format in Markdown so it would save me time!

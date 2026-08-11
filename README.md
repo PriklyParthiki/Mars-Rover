@@ -39,7 +39,7 @@ Inside the front of the rover's body, there is a pair of hinged doors that open 
 
 Behind those doors are two rods and two mechanical arms:
 * **Claw Arm:** Made of 3 parts (2 long metal strips connected together and a claw that can adjust its grip size).
-* **Drill Arm:** Equipped with a drill bit used to break martian materials for sample storage.
+* **Drill Arm:** Has a drill bit used to break and interact with martian materials for sample storage.
 
 Each arm stands on a rod, allowing them to change direction vertically and making the process of extracting materials very easy. 
 

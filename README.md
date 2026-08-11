@@ -19,6 +19,8 @@ The rover I produced can be mass-produced, allowing a lot of them to be sent to 
 ### Rocker-Bogie System & Wheels
 Let's start with the structure that holds up the rover and helps it roll through the Martian environment. This structure is called a **Rocker-Bogie system**. It consists of 2 parts of the wheel framework that attach to each other and rotate. The two parts allow the whole vehicle to be stable, which is extremely important on Mars. This rotation allows the rover to go over several bumps or tiny high hills without crashing. 
 
+![MAV Ejection View](./Screenshot%202026-08-10%209.26.17%20PM.png)
+
 Next are the wheels: heavy-duty wheels scaled to fit the robot. They rotate and feature grooves for better grip, made with plastic and metal.
 
 ![Rocker-Bogie System and Wheels](./Screenshot%202026-08-10%209.05.38%20PM.png)
@@ -52,7 +54,6 @@ Finally, stored at the back are **4 Mars Ascent Vehicles (MAV)**. The robot stor
 
 ![Mars Ascent Vehicle Storage](./Screenshot%202026-08-10%209.19.02%20PM.png)
 
-![MAV Ejection View](./Screenshot%202026-08-10%209.26.17%20PM.png)
 
 ---
 

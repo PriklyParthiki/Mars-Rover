@@ -65,3 +65,5 @@ So, that’s it! My Mini Mars rover broken down!
 Be careful while playing around with my live link, as parts can glitch because of the sheer amount of components inside my rover! Also be aware that a lot of the mates (mates are basically bolts and different types of screws that allow movement, like spinning or locking in place) might be delicate. 
 
 Have fun, and be sure to give me a nice rating so I can get some nice prizes!! :D
+
+**TO SEE MY FULL ASSEMBLY ON LIVE DEMO LINK GO TO THE "ASSEMBLY 1 TAB"**

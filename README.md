@@ -1,14 +1,14 @@
 # Mini Mars Rover
 
 ## Introduction
-Hello everyone! I hope you guys are having a wonderful day! 
+HI GUYSS! HOW ARE YALL DOING? 
 
 This project is about a 3D Miniature Mars Rover made on Onshape which took about 24 hours to make. I got this idea because I was like, *"Stardance is about space, so I’ll just make a rover!"*
 
 ---
 
 ## What Is It?
-It is a Mars rover, made to be small and basically a mini version of a rover. Why is it mini? This is because regular-sized rovers are about 10 feet long; this rover is about 3 feet. Big rovers cost lots of money, effort, and time because they are huge and cannot be mass-produced, not to mention the amount of effort required to make sure this 10-foot gargantuan lands properly. 
+It is a Mars rover, made to be small and basically a mini version of a rover. Why is it mini? This is because regular-sized rovers are about 10 feet long; this rover is about 3 feet. Big rovers cost lots of money, effort, and time because they are huge and cannot be mass-produced, and also they use a lot of effort required to make sure this 10-foot gargantuan lands properly. 
 
 The rover I produced can be mass-produced, allowing a lot of them to be sent to Mars in one ship compared to big rovers. Even though it is small, it still has all the necessary components that a rover should have. This rover will primarily be made out of metals so it weighs more and has a more stable center. Keep in mind, Mars has roughly a third of Earth’s gravity, so it needs to be heavy.
 

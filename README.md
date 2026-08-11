@@ -67,3 +67,6 @@ Be careful while playing around with my live link, as parts can glitch because o
 Have fun, and be sure to give me a nice rating so I can get some nice prizes!! :D
 
 **TO SEE MY FULL ASSEMBLY ON LIVE DEMO LINK GO TO THE "ASSEMBLY 1 TAB"**
+
+CREDITS: For the camera Raspberry_Pi_Camera_OV5647_IR-CUT_175- by JeanProfite on grabCad
+and for the wheel Curiosity Wheel v25, by David Shaw on grabCad

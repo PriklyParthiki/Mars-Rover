@@ -34,8 +34,6 @@ Next, it has a **Low Gain Antenna** that looks like a stick. It serves as a back
 
 ![Mast Assembly and Top Sensors](./Screenshot%202026-08-10%209.07.04%20PM.png)
 
-![Antennas and Body Details](./Screenshot%202026-08-10%209.10.41%20PM.png)
-
 ### Internal Mechanisms & Robotic Arms
 Inside the front of the rover's body, there is a pair of hinged doors that open and close to protect the interior. 
 
@@ -44,6 +42,8 @@ Behind those doors are two rods and two mechanical arms:
 * **Drill Arm:** Equipped with a drill bit used to break martian materials for sample storage.
 
 Each arm stands on a rod, allowing them to change direction vertically and making the process of extracting materials very easy. Additionally, two solar panels attach to a cylindrical piston that expands and retracts to push the panels out or pull them inside safely at night.
+
+![Antennas and Body Details](./Screenshot%202026-08-10%209.10.41%20PM.png)
 
 ![Front Doors and Internal Storage](./Screenshot%202026-08-10%209.13.22%20PM.png)
 

@@ -56,9 +56,11 @@ Finally, stored at the back are **4 Mars Ascent Vehicles (MAV)**. The robot stor
 
 ![Mars Ascent Vehicle Storage](./Screenshot%202026-08-10%209.19.02%20PM.png)
 
-https://www.printables.com/model/1809207-a-mini-mars-rover
+
 
 ---
+### 📁 CAD & 3D Print Files
+* **Printables:** [Download 3D files & STEP on Printables](https://www.printables.com/model/1809207-a-mini-mars-rover)
 
 ## Conclusion
 So, that’s it! My Mini Mars rover broken down! 

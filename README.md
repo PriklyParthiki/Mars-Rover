@@ -5,8 +5,6 @@ HI GUYSS! HOW ARE YALL DOING?
 
 This project is about a 3D Miniature Mars Rover made on Onshape which took about 24 hours to make. I got this idea because I was like, *"Stardance is about space, so I’ll just make a rover!"*
 
----
-
 ## What Is It?
 It is a Mars rover, made to be small and basically a mini version of a rover. Why is it mini? This is because regular-sized rovers are about 10 feet long; this rover is about 3 feet. Big rovers cost lots of money, effort, and time because they are huge and cannot be mass-produced, and also they use a lot of effort required to make sure this 10-foot gargantuan lands properly. 
 
@@ -59,9 +57,9 @@ Finally, stored at the back are **4 Mars Ascent Vehicles (MAV)**. The robot stor
 
 
 ---
-### 📁 CAD & 3D Print Files
+###CAD & 3D Print Files
 * **Printables:** [Download 3D files & STEP on Printables](https://www.printables.com/model/1809207-a-mini-mars-rover)
-** Here's what it looks like!!
+** Here's what it looks like!! IK SO COOL AHAHAHHA
 
 ![Rover image](./Screenshot%202026-08-22%209.52.09%20AM.png)
 
